@@ -1,0 +1,6 @@
+# Personal data: keep out of git
+ai_life_coach_profile.md
+coaching_context.md
+journal/*
+!journal/.gitkeep
+.DS_Store
